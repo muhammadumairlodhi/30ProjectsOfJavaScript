@@ -4,7 +4,7 @@
 
 [Live demo](https://muhammadumairlodhi.github.io/weatherApp/)
 
-![img](https://raw.githubusercontent.com/muhammadumairlodhi/30-JS-project/main/1_project_WeatherAPP/images/img1.png)
+![img](https://raw.githubusercontent.com/muhammadumairlodhi/30ProjectsOfJavaScript/main/Project1_WeatherApp/images/img1.png?token=GHSAT0AAAAAACNYUXDSSUUJXKYLJCV6QPY2ZOBAJSA)
 
 ---
 
@@ -12,7 +12,7 @@
 
 [Live demo](https://muhammadumairlodhi.github.io/text-to-speech/)
 
-![alt text](https://raw.githubusercontent.com/muhammadumairlodhi/30-JS-project/main/2_project_TextToSpeech/images/imag1.png)
+![](https://raw.githubusercontent.com/muhammadumairlodhi/30ProjectsOfJavaScript/main/Project2_TextToSpeechConverter/images/imag1.png?token=GHSAT0AAAAAACNYUXDSVGSU7GHCCLH2QLNCZOBAKMA)
 
 ---
 
@@ -20,7 +20,7 @@
 
 [Live Demo](https://muhammadumairlodhi.github.io/TodoListWithJavaScript/)
 
-![alttext](https://raw.githubusercontent.com/muhammadumairlodhi/30-JS-projects/main/3_Project_Todo_list/images/imgformdfile.png)
+![alttext](https://raw.githubusercontent.com/muhammadumairlodhi/30ProjectsOfJavaScript/main/Project3_ToDoList/images/imgformdfile.png?token=GHSAT0AAAAAACNYUXDSFKM3Y2ERTKELLKZGZOBAKUA)
 
 ---
 
@@ -28,6 +28,6 @@
 
 [Live Demo](https://muhammadumairlodhi.github.io/BMI-Calculator/)
 
-![alttext](https://raw.githubusercontent.com/muhammadumairlodhi/30-JS-projects/main/4_Project_BMI_Calculator/images/imgformdfile.png)
+![alttext](https://raw.githubusercontent.com/muhammadumairlodhi/30ProjectsOfJavaScript/main/Project4_BMICalculator/images/imgformdfile.png?token=GHSAT0AAAAAACNYUXDS5A2LKRLHBFDVTBGOZOBAK4A)
 
 ---
